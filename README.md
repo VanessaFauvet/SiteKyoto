@@ -30,6 +30,4 @@
 
 ## Réalisation
 
-Le site "Site Kyoto" final en ligne :
-
 [Le site "Site Kyoto" final en ligne](https://vanessafauvet.github.io/SiteKyoto/)
