@@ -32,4 +32,4 @@
 
 Le site "Site Kyoto" final en ligne :
 
-[https://stephane-mouron.fr/print-it/](https://vanessafauvet.github.io/SiteKyoto/)
+[Le site "Site Kyoto" final en ligne](https://vanessafauvet.github.io/SiteKyoto/)
